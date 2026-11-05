@@ -1,0 +1,8 @@
+Package: com.local.agoraenhance
+Name: AgoraEnhance
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Voice quality tweak for Agora-based apps
+Maintainer: local
+Author: local
+Section: Tweaks
